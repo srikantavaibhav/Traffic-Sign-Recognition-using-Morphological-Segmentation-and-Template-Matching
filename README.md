@@ -14,4 +14,5 @@ To run this project on Ubuntu terminal:
 - Download the Dataset.zip and TrafficSignRecognition.py files in the same folder.
 - Install the necessary modules: cv2, numpy, imutils
 - On terminal, run the code as: python3 TrafficSignRecognition.py
+- To import an image (from the dataset), enter it's name when prompted.
 
