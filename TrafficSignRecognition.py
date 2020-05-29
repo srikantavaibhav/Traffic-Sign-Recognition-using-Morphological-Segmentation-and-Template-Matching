@@ -7,7 +7,7 @@ import imutils
 imgName=input("Image name: ")
 img = cv2.imread(imgName)  
 cv2.imshow('image', img)
-cv2.waitKey(0) 
+cv2.waitKey(0)
 
 def findTrafficSign():
 	'''
