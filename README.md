@@ -11,7 +11,7 @@ Note: We have considered direction signs only.
 
 
 To run this project on Ubuntu terminal:
-- Download the Dataset and TrafficSignRecognition.py files in the same folder.
+- Download the Dataset.zip and TrafficSignRecognition.py files in the same folder.
 - Install the necessary modules: cv2, numpy, imutils
 - On terminal, run the code as: python3 TrafficSignRecognition.py
 
